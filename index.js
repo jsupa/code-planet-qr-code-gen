@@ -1,6 +1,6 @@
 const {
     QRCodeStyling,
-} = require('qr-code-styling/lib/qr-code-styling.common.js');
+} = require('qr-code-styling-node/lib/qr-code-styling.common.js');
 const nodeCanvas = require('canvas');
 const { JSDOM } = require('jsdom');
 
